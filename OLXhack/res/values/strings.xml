@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OLXhack</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="city_array">
+        <item>Delhi</item>
+        <item>Gurgaon</item>
+        <item>Noida</item>
+        <item>Faridabad </item>
+    </string-array>
+    <string-array name="catagory_array">
+        <item>Mobile</item>
+        <item>Cars</item>
+        <item>Electronics</item>
+    </string-array>
+
+</resources>
